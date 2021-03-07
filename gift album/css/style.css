@@ -178,16 +178,10 @@ img {
     font-size: 1rem;
   }
   .cover-out .myheart {
-    font-size: 13rem;
+    font-size: 7rem;
     margin-top: 10%;
 }
 .p1 .content {
     font-size: 2rem;
-}
-}
-@media screen and (max-width: 500px) {
-  .cover-out .myheart {
-    font-size: 3rem;
-    margin-top: 10%;
 }
 }
