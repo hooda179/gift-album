@@ -185,3 +185,9 @@ img {
     font-size: 2rem;
 }
 }
+@media screen and (max-width: 500px) {
+  .cover-out .myheart {
+    font-size: 6rem;
+    margin-top: 10%;
+}
+}
