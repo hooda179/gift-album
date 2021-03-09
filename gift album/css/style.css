@@ -148,7 +148,7 @@ img {
 @media screen and (max-width: 1100px) {
   .album {
     width: 50%;
-    height: 50vh;
+    height: 300px;
     margin: 25vh auto;
   }
   p {
